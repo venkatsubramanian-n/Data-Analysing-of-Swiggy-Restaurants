@@ -6,7 +6,8 @@ Introduction:
 
 * Analyzed data for 1.4 million+ rows containing 9 columns using Pandas
 * Created visualizations (scatter plots, pie charts, histogram etc.) using Seaborn, matplotlib & Plotly
-* Visualized the data in order to bring important aspects of that data into focus for further analysis
+* Chinese is the most common cuisine in all restaurants & Hyderabad has highest no. of rating counts
+
 
 
 
